@@ -1,4 +1,3 @@
-# hallo wereld
+# Welkom op deze repo
 
-welkom op mijn repository.
-
+Dit is de repo voor de site over Gerrit
